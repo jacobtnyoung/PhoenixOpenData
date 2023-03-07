@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ScappleDocument Version="1.1" ID="143CB755-65C7-4FF3-BDCC-EE6B43FFA7B3">
+    <Notes>
+        <Note ID="0" FontSize="18.0" Position="689.013367,72.482224" Width="166.0">
+            <Appearance>
+                <Alignment>Center</Alignment>
+            </Appearance>
+            <String>Phoenix Open Data</String>
+        </Note>
+        <Note ID="1" FontSize="12.0" Position="295.0,191.0" Width="278.0">
+            <Appearance>
+                <Alignment>Center</Alignment>
+                <Border Weight="1" Style="Square"></Border>
+            </Appearance>
+            <String>
+Raw data from the City of Phoenix Open Data Portal (https://www.phoenixopendata.com/)
+</String>
+            <Formatting>
+                <FormatRange Link="https://www.phoenixopendata.com/">53,32</FormatRange>
+            </Formatting>
+        </Note>
+        <Note ID="5" FontSize="12.0" Position="342.615051,277.055481" Width="191.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>Files:
+
+Officer involved shooting
+
+Calls for service to the police
+
+Crime data
+
+Calls for service to fire department
+
+Officer pointed gun at person
+
+Response to resistance
+
+Traffic citations
+
+Adult Arrests
+
+Property maintenance
+
+Risk management claims</String>
+            <Formatting>
+                <FormatRange Underline="Yes">0,5</FormatRange>
+            </Formatting>
+        </Note>
+    </Notes>
+    <BackgroundShapes></BackgroundShapes>
+    <AutoFit>0, 5</AutoFit>
+    <NoteStyles>
+        <Style Name="Bubble (Blue)" ID="49CAD9CD-B9B2-47AB-AD96-24D249EE40E8" AffectFontStyle="No" AffectAlignment="No" AffectTextColor="No" AffectNoteBody="Yes" AffectFade="No">
+            <BorderThickness>1</BorderThickness>
+            <BorderColor>0.56185 0.710638 0.779408</BorderColor>
+            <FillColor>0.702312 0.888297 0.97426</FillColor>
+        </Style>
+        <Style Name="Bubble (Green)" ID="0CD4FBBC-C6B1-4F48-BB77-F8F59135811F" AffectFontStyle="No" AffectAlignment="No" AffectTextColor="No" AffectNoteBody="Yes" AffectFade="No">
+            <BorderThickness>1</BorderThickness>
+            <BorderColor>0.572679 0.758987 0.558158</BorderColor>
+            <FillColor>0.715848 0.948734 0.697698</FillColor>
+        </Style>
+        <Style Name="Bubble (Pink)" ID="4D8AF93F-44AF-4E20-B66D-605C58899C88" AffectFontStyle="No" AffectAlignment="No" AffectTextColor="No" AffectNoteBody="Yes" AffectFade="No">
+            <BorderThickness>1</BorderThickness>
+            <BorderColor>0.794796 0.560982 0.586075</BorderColor>
+            <FillColor>0.957564 0.766768 0.999625</FillColor>
+        </Style>
+        <Style Name="Bubble (Red)" ID="B34C8CBF-471F-461B-8EF7-FE52AAA91196" AffectFontStyle="No" AffectAlignment="No" AffectTextColor="No" AffectNoteBody="Yes" AffectFade="No">
+            <BorderThickness>1</BorderThickness>
+            <BorderColor>0.794796 0.560982 0.586075</BorderColor>
+            <FillColor>0.993495 0.701227 0.732594</FillColor>
+        </Style>
+        <Style Name="Bubble (Yellow)" ID="E789882B-3F56-44FF-92DA-D7F30F870EFC" AffectFontStyle="No" AffectAlignment="No" AffectTextColor="No" AffectNoteBody="Yes" AffectFade="No">
+            <BorderThickness>1</BorderThickness>
+            <BorderColor>0.798176 0.714202 0.522059</BorderColor>
+            <FillColor>0.99772 0.892753 0.652574</FillColor>
+        </Style>
+        <Style Name="Red Text" ID="1A23847F-D712-46B7-B708-1A224F7AE6C4" AffectFontStyle="No" AffectAlignment="No" AffectTextColor="Yes" AffectNoteBody="No" AffectFade="No">
+            <TextColor>0.985954 0.0 0.02694</TextColor>
+        </Style>
+        <Style Name="Title Text" ID="0FBE8A56-2A38-4910-A4D1-55D91A417186" AffectFontStyle="Yes" AffectAlignment="Yes" AffectTextColor="No" AffectNoteBody="No" AffectFade="No">
+            <FontSize>28.0</FontSize>
+            <IsBold>Yes</IsBold>
+        </Style>
+    </NoteStyles>
+    <UISettings>
+        <BackgroundColor>0.999763 0.988395 0.949915</BackgroundColor>
+        <DefaultFont>Helvetica</DefaultFont>
+    </UISettings>
+    <PrintSettings PaperSize="612.0,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
+</ScappleDocument>
